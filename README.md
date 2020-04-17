@@ -1,6 +1,4 @@
-ROBOFRIENDS
+# Robofriends
+Click on the above link to run the app.
 
-How to run the app:
-1.clone the project
-2.run 'npm install'
-3.now run 'npm start' to start the app and enjoy...
+
